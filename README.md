@@ -3,7 +3,7 @@ To Be The Master of V8
 
 Chapter
 =============
-# 1. Snapshot(TBD)
+* Snapshot(TBD)
 
 
 Reference
