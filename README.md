@@ -19,6 +19,7 @@ https://e3pem.github.io/2020/03/05/browser/v8-note/<br/>
 
 * from CTF<br/>
 https://kiprey.github.io/2021/01/v8-turboFan/<br/>
+https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/ <br/>
 
 * build v8 <br/>
 https://www.daimajiaoliu.com/daima/479c827b99003e0<br/>
