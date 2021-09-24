@@ -14,8 +14,11 @@ https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8<b
 https://e3pem.github.io/2020/03/05/browser/v8-note/<br/>
 
 
-* Turbofan
-** https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html
+* Turbofan<br/>
+** https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html<br/>
 
-* from CTF
-https://kiprey.github.io/2021/01/v8-turboFan/
+* from CTF<br/>
+https://kiprey.github.io/2021/01/v8-turboFan/<br/>
+
+* build v8 <br/>
+https://www.daimajiaoliu.com/daima/479c827b99003e0<br/>
