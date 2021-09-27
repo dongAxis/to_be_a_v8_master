@@ -21,6 +21,7 @@ https://e3pem.github.io/2020/03/05/browser/v8-note/<br/>
 https://kiprey.github.io/2021/01/v8-turboFan/<br/>
 https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/ <br/>
 https://kiprey.github.io/categories/vulnerability-analysis/v8/<br/>
+https://eternalsakura13.com/2021/06/22/cve-2020-16040/<br/>
 
 * build v8 <br/>
 https://www.daimajiaoliu.com/daima/479c827b99003e0<br/>
