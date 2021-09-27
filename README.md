@@ -25,3 +25,6 @@ https://eternalsakura13.com/2021/06/22/cve-2020-16040/<br/>
 
 * build v8 <br/>
 https://www.daimajiaoliu.com/daima/479c827b99003e0<br/>
+
+* 如何看懂v8图：
+http://suphp.cn/anquanke/11/240011.html
