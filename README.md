@@ -27,6 +27,9 @@ https://juejin.cn/post/6844904037549244423#heading-5
 https://faraz.faith/2021-01-07-cve-2020-16040-analysis/
 https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/
 
+* FeedBack Vector
+https://www.youtube.com/watch?v=u7zRSm8jzvA
+
 * build v8 <br/>
 https://www.daimajiaoliu.com/daima/479c827b99003e0<br/>
 
