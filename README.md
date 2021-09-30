@@ -15,7 +15,8 @@ https://e3pem.github.io/2020/03/05/browser/v8-note/<br/>
 
 
 * Turbofan<br/>
-** https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html<br/>
+https://mem2019.github.io/jekyll/update/2019/08/28/V8-GraphReducer-Notes.html<br/>
+https://ponyfoo.com/articles/an-introduction-to-speculative-optimization-in-v8 <br/>
 
 * from CTF<br/>
 https://kiprey.github.io/2021/01/v8-turboFan/<br/>
