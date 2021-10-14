@@ -23,12 +23,15 @@ https://kiprey.github.io/2021/01/v8-turboFan/<br/>
 https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/ <br/>
 https://kiprey.github.io/categories/vulnerability-analysis/v8/<br/>
 https://eternalsakura13.com/2021/06/22/cve-2020-16040/<br/>
-https://juejin.cn/post/6844904037549244423#heading-5
-https://faraz.faith/2021-01-07-cve-2020-16040-analysis/
-https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/
+https://juejin.cn/post/6844904037549244423#heading-5 <br/>
+https://faraz.faith/2021-01-07-cve-2020-16040-analysis/ <br/>
+https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/ <br/>
 
-* FeedBack Vector
-https://www.youtube.com/watch?v=u7zRSm8jzvA
+* FeedBack Vector <br/>
+https://www.youtube.com/watch?v=u7zRSm8jzvA <br/>
+
+* 什么是a[0...N]? 什么是r[0...N]: <br/>
+https://swarm.ptsecurity.com/how-we-bypassed-bytenode-and-decompiled-node-js-bytecode-in-ghidra/ <br/>
 
 * build v8 <br/>
 https://www.daimajiaoliu.com/daima/479c827b99003e0<br/>
