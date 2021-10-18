@@ -46,6 +46,11 @@ https://www.daimajiaoliu.com/daima/479c827b99003e0<br/>
 http://suphp.cn/anquanke/11/240011.html <br/>
 https://www.anquanke.com/tag/v8 <br/>
 
+Paper
+=============
+http://lafo.ssw.uni-linz.ac.at/papers/2013_VMIL_GraalIR.pdf <br/>
+
 Deoptimization:
 =============
 https://docs.google.com/presentation/d/1Z6oCocRASCfTqGq1GCo1jbULDGS-w-nzxkbVF7Up0u0/edit#slide=id.g19ea708688_0_10 <br/>
+[FrameState](https://p1umer.github.io/2019/07/03/V8-Optimize-FrameState/)
