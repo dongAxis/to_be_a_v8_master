@@ -6,6 +6,10 @@ Chapter
 * Snapshot(TBD)
 
 
+TopLevel & Non-TopLevel
+=============
+https://zhuanlan.zhihu.com/p/82329212
+
 Reference
 =============
 https://speakerdeck.com/brn/source-to-binary-journey-of-v8-javascript-engine-english-version?slide=3<br/>
