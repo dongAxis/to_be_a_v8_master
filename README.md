@@ -31,7 +31,8 @@ https://kiprey.github.io/categories/vulnerability-analysis/v8/<br/>
 https://eternalsakura13.com/2021/06/22/cve-2020-16040/<br/>
 https://juejin.cn/post/6844904037549244423#heading-5 <br/>
 https://faraz.faith/2021-01-07-cve-2020-16040-analysis/ <br/>
-https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/ <br/>
+* https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/ <br/>
+* https://xz.aliyun.com/t/9014 <br/>
 
 FeedBack Vector
 =============
